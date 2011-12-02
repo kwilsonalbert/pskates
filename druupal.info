@@ -1,0 +1,8 @@
+name = purpleskates theme
+description = a random theme for testing
+core = 7.x
+engine = phptemplate
+base theme = cpj_base_theme
+
+; Style Sheets
+stylesheets[all][] = css/pskates.css
