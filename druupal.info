@@ -6,3 +6,15 @@ base theme = cpj_base_theme
 
 ; Style Sheets
 stylesheets[all][] = css/pskates.css
+
+;Regions
+regions[banner] = Banner
+regions[content_header] = Header
+regions[sidebar_first] = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[content] = Content
+regions[footer] = Footer
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[page_top] = Page Top
+regions[page_bottom] = Page Bottom
